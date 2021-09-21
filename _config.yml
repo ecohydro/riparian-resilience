@@ -13,14 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Riparian Resilience
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Research on riparian resilience at the Dangermond Preserve. 
+  Supported by the Zegar Family Foundation and conducted in collaboration 
+  with the Point Conception Institute. This work was conducted by the 
+  Water, Vegetation, and Society Lab at the University of California, Santa Barbara.
 twitter_username: username
-github_username: username
+github_username: ecohydro
 minimal_mistakes_skin: default
 search: true
 
@@ -58,9 +59,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Kelly Caylor"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Professor and Director, Earth Research Institute. Bren School of Environmental Management and the Department of Geography, UCSB"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
