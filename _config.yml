@@ -24,7 +24,7 @@ twitter_username: kcaylor
 github_username: ecohydro
 minimal_mistakes_skin: air
 search: true
-
+url: https://ecohydro.github.io/riparian-resilience
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -58,10 +58,16 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Social Sharing
+twitter:
+  username               : WAVESatUCSB
+
 author:
   name   : "Kelly Caylor"
   avatar : "/assets/images/Caylor.png"
-  bio    : "Professor and Director, Earth Research Institute. Bren School of Environmental Management and the Department of Geography, UCSB"
+  bio              : "Professor at the Bren School of Environmental Science & Department of Geography. Director of the Earth Research Institute at UCSB"
+  location         : "Santa Barbara, CA"
+  email            : "caylor@ucsb.edu"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
