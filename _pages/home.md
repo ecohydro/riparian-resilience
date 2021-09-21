@@ -10,19 +10,19 @@ header:
 excerpt: '<br /><br /> Developing and Implementing Novel Tools for Assessing Riparian Ecosystem Resilience at the Dangermond Preserve.<br /> <small><a href="http://bren.ucsb.edu/">Bren School</a> | <a href="https://www.nature.org/en-us/about-us/where-we-work/united-states/california/stories-in-california/dangermond-preserve/">Dangermond Preserve</a> | <a href="http://www.ucsb.edu">UCSB</a></small><br /><br />'
  
 feature_row:
-  - image_path: /assets/images/water_use.png
+  - image_path: /assets/images/drones.jpeg
     alt: "water use"
-    title: "Riparian Water Use"
-    excerpt: "Novel drone approaches for remote measurement of Riparian canopy water use."
+    title: "Drone-based Remote Sensing"
+    excerpt: "Novel drone approaches for routine measurement of riparian ecology."
     url: "/uas_methods/"
     btn_label: "Learn More"
-  - image_path: /assets/images/structure.png
+  - image_path: /assets/images/structure.jpeg
     alt: "structure"
-    title: "Riparian Woodland Structure"
-    excerpt: "Using Structure from Motion to map canopy leaf area and tree biomass."
+    title: "Riparian Structure & Function"
+    excerpt: "Mapping riparian water use and canopy structure."
     url: "/canopy_structure/"
     btn_label: "Learn More"
-  - image_path: /assets/images/resilience.png
+  - image_path: /assets/images/resilience.jpeg
     alt: "resilience"
     title: "Monitoring Canopy Resilience"
     excerpt: "A new approach to monitoring riparian woodland responses to drought."
