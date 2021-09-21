@@ -1,0 +1,9 @@
+# /_data/authors.yml
+
+Bryn Morgan:
+    name        : "Bryn Morgan"
+    bio         : "PhD Student"
+    email       : "brynmorgan@ucsb.edu"
+    github      : "brynemorgan"
+    location    : "Santa Barbara, CA"
+    avatar      : "assets/images/BMorgan.jpg"
