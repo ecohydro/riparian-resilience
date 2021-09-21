@@ -13,7 +13,7 @@ feature_row:
   - image_path: /assets/images/drones.jpeg
     alt: "water use"
     title: "Drone-based Remote Sensing"
-    excerpt: "Novel drone approaches for routine measurement of riparian ecology."
+    excerpt: "Novel drone approaches for routine measurement of riparian ecohydrology."
     url: "/uas_methods/"
     btn_label: "Learn More"
   - image_path: /assets/images/structure.jpeg
